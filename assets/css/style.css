@@ -169,7 +169,7 @@ small{
     }
 
     .menu .menu-items {
-        display: flex; /* Empilha os itens verticalmente */
+        flex-direction: column; /* Empilha os itens verticalmente */
 		align-items: center; /* Alinha os itens no centro */
 		
     }
