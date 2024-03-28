@@ -178,6 +178,8 @@ small{
         padding: 2px; /* Ajuste o espaçamento conforme necessário */
 		font-size: 2px; /* Ajuste o tamanho da fonte conforme necessário */
 		padding-bottom: 2px;
+	    border-right: none;
+	    border-bottom: white solid 1px;
 	}
 
 	.menu .menu-items a:hover {
